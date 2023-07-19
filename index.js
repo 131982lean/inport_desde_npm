@@ -1,3 +1,3 @@
-import { suma } from "init-npm-por-lean-parte_tres"
+import { suma } from "init-npm-por-lean-parte_tres";
 
-console.log(suma(10, 3))
+console.log(suma(10, 3));
