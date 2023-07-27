@@ -11,6 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "init-npm-por-lean-parte_tres": "^1.0.2"
+    "cards_lean": "^0.1.0",
+    "init-npm-por-lean-parte_2": "^1.0.0",
+    "init-npm-por-lean-parte_tres": "^1.0.2",
+    "multiplicar": "file:../multiplicar"
+  },
+  "peerDependencies": {
+    "multiplicar": "^1.0.0"
   }
 }
+

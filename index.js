@@ -1,3 +1,6 @@
 import { suma } from "init-npm-por-lean-parte_tres";
+ import { multiplicar } from "multiplicar";
 
-console.log(suma(10, 3));
+
+console.log(multiplicar(2, 3)); 
+console.log(suma(2, 3)) 
