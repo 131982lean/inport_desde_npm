@@ -6,4 +6,4 @@ import { potencia } from "potencia";
 
 console.log(multiplicar(8, 3)); 
 console.log(suma(8, 3)); /* */
-console.log(potencia(8, 3));
+console.log(potencia(99, 3));
